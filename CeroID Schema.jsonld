@@ -1,0 +1,35 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "CeroCredentials": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "iden3-vocab": "urn:uuid:dbe18c0d-1094-48c1-b2b5-868a5914d296#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "username": {
+                        "@id": "iden3-vocab:username",
+                        "@type": "xsd:string"
+                    },
+                    "carbonFootprint": {
+                        "@id": "iden3-vocab:carbonFootprint",
+                        "@type": "xsd:double"
+                    },
+                    "ceroCredits": {
+                        "@id": "iden3-vocab:ceroCredits",
+                        "@type": "xsd:double"
+                    },
+                    "userEmail": {
+                        "@id": "iden3-vocab:userEmail",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:e1e25b0e-9ea9-4556-91f7-3bd28e752282"
+            }
+        }
+    ]
+}
