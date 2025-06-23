@@ -33,7 +33,7 @@
                 "ceroCredits": {
                     "description": "User's Cero credits balance",
                     "title": "Cero Credits",
-                    "type": "number"
+                    "type": "integer"
                 },
                 "userEmail": {
                     "description": "Users Email Address used for Cero ID",
