@@ -21,7 +21,7 @@
                     },
                     "ceroCredits": {
                         "@id": "iden3-vocab:ceroCredits",
-                        "@type": "xsd:double"
+                        "@type": "xsd:integer"
                     },
                     "userEmail": {
                         "@id": "iden3-vocab:userEmail",
