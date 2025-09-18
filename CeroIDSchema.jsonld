@@ -11,10 +11,6 @@
                     "@protected": true,
                     "iden3-vocab": "urn:uuid:dbe18c0d-1094-48c1-b2b5-868a5914d296#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
-                    "id": {
-                        "@id": "iden3-vocab:id",
-                        "@type": "xsd:string"
-                    },
                     "username": {
                         "@id": "iden3-vocab:username",
                         "@type": "xsd:string"
