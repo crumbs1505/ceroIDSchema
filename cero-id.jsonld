@@ -1,0 +1,31 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "ceroid": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "iden3-vocab": "urn:uuid:132c4dc8-47af-4ba9-a333-264f7a490879#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "carbon-footprint": {
+                        "@id": "iden3-vocab:carbon-footprint",
+                        "@type": "xsd:double"
+                    },
+                    "carbon-offset": {
+                        "@id": "iden3-vocab:carbon-offset",
+                        "@type": "xsd:double"
+                    },
+                    "cero-credits": {
+                        "@id": "iden3-vocab:cero-credits",
+                        "@type": "xsd:integer"
+                    }
+                },
+                "@id": "urn:uuid:44f944e8-aab2-427f-b9fa-62ce13faa8bc"
+            }
+        }
+    ]
+}
