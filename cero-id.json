@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "ceroid",
         "uris": {
-            "jsonLdContext": "ipfs://QmdDRnwdTuempHCwEfGw9XKmdkFVRaQpim5c1hgVSoB2YZ"
+            "jsonLdContext": "https://raw.githubusercontent.com/crumbs1505/ceroIDSchema/refs/heads/main/cero-id.jsonld"
         },
         "version": "1.0"
     },
